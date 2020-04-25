@@ -2078,7 +2078,7 @@
       },
       "properties": {
         "ID": 1,
-        "kode": 85,
+        "kode": 94,
         "Propinsi": "IRIAN JAYA TIMUR",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -13250,7 +13250,7 @@
       },
       "properties": {
         "ID": 12,
-        "kode": 0,
+        "kode": 61,
         "Propinsi": "KALIMANTAN BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -16326,7 +16326,7 @@
       },
       "properties": {
         "ID": 16,
-        "kode": 84,
+        "kode": 94,
         "Propinsi": "IRIAN JAYA TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -31462,7 +31462,7 @@
       },
       "properties": {
         "ID": 27,
-        "kode": 0,
+        "kode": 62,
         "Propinsi": "KALIMANTAN TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
